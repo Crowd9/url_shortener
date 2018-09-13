@@ -22,7 +22,6 @@ Gem::Specification.new do |s|
              "lib/url_shortener/response/stats.rb",
              "lib/url_shortener/response/info.rb"
              ]
-  s.has_rdoc = true
   s.homepage = %q{http://github.com/nas/url_shortener}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
